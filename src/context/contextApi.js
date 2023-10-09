@@ -24,7 +24,7 @@ export const AppContext = (props) => {
             setLoading(false);
         }).catch((error)=> {
             console.log(error.message)
-            alert("Daily api limit exceeded.")});
+            alert("Monthly api limit exceeded.")});
     };
 
     return (

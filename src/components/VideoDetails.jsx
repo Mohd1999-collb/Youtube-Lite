@@ -75,6 +75,7 @@ const VideoDetails = () => {
                                     <img
                                         className="h-full w-full object-cover"
                                         src={video?.author?.avatar[0]?.url}
+                                        alt="video author avtar"
                                     />
                                 </div>
                             </div>

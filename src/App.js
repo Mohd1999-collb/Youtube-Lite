@@ -23,7 +23,8 @@ const App = () => {
                     </Routes>
                 </div>
             </BrowserRouter>
-        </AppContext>
+        </AppContext>       
+
     );
 };
 

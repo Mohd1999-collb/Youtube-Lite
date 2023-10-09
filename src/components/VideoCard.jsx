@@ -16,6 +16,7 @@ const VideoCard = ({ video }) => {
                     <img
                         className="h-full w-full object-cover"
                         src={video?.thumbnails[0]?.url}
+                        alt="videothumbnails"
                     />
 
                     {/* Set the time duration of each video */}
@@ -31,6 +32,7 @@ const VideoCard = ({ video }) => {
                             <img
                                 className="h-full w-full object-cover"
                                 src={video?.author?.avatar[0]?.url}
+                                alt="authorAvtar"
                             />
                         </div>
                     </div>
