@@ -1,5 +1,6 @@
 # Youtube Image
 ![youtube image](https://github.com/Mohd1999-collb/Youtube-Lite/assets/96992202/74c0fa13-4a7a-47dd-a979-d7319ebfdc3f)
+# Live preview: https://mohdtalib-youtube-lite.netlify.app/
 A YouTube clone project is a web application or platform designed to mimic some of the core features and functionalities of the popular video-sharing platform YouTube.It typically includes a video player, likes, video recommendations, and a search feature. The goal is to replicate the essential elements of YouTube, enabling users to create, share, and consume video content in a familiar way.
 
 # Features and functionality of youtube clone project 
